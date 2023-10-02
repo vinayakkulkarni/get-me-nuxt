@@ -29,7 +29,7 @@
     "@nuxt/devtools": "^0.8.5",
     "@types/node": "^20.7.1",
     "@typescript-eslint/eslint-plugin": "^6.7.3",
-    "@typescript-eslint/parser": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.4",
     "@unocss/eslint-config": "^0.56.4",
     "@unocss/nuxt": "^0.56.4",
     "@unocss/preset-wind": "^0.56.4",
