@@ -10,6 +10,7 @@
     ":semanticCommitTypeAll(chore)",
     ":gitSignOff",
     ":pinDevDependencies",
+    ":preserveSemverRanges",
     ":widenPeerDependencies"
   ],
   "rangeStrategy": "bump"
